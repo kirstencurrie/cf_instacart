@@ -3,7 +3,13 @@ This project includes Jupyter Lab notebook files for a mock analysis of Instacar
 
 The following information came from a fictional business objective prompt in the Career Foundry's module #4 on intro to Python. 
 
+
+
 ## Objective
+
+![Instacart Logo](https://www.instacart.com/assets/beetstrap/brand/2022/instacart-logo-color-6678cb82d531f8910d5ba270a11a7e9b56fc261371bda42ea7a5abeff3492e1c.svg)
+
+
 You’re an analyst for an existing company, Instacart, an online grocery store
 that operates through an app. Instacart already has very good sales, but they
 want to uncover more information about their sales patterns. Your task is to
