@@ -11,7 +11,7 @@ perform an initial data and exploratory analysis of some of their data in order
 to derive insights and suggest strategies for better segmentation based on
 the provided criteria
 
-Full project objectives in /Instacart Basket Analysis_KCurrie/01 Project Management
+Full project objectives in folder **/Instacart Basket Analysis_KCurrie/01 Project Management**
 
 ## Data
 The dataset is comprised of the following information:
@@ -20,7 +20,7 @@ The dataset is comprised of the following information:
   - Orders
   - Customers
 
-The data sets can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally from [www.instacart.com/datasets/grocery-shopping-2017]
+The data sets can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally {from here](www.instacart.com/datasets/grocery-shopping-2017)
 via Kaggle on 1.9.25
 
 ## Tools
@@ -31,6 +31,6 @@ For this project, the following libraries were used:
 - Seaborn - for data visualizations
 
 ## Executing the Code
-The code is available as jupyter notebooks under /Instacart Basket Analysis_KCurrie/03 Scripts
+The code is available as jupyter notebooks under **/Instacart Basket Analysis_KCurrie/03 Scripts**
 
 
