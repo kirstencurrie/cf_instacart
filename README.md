@@ -20,7 +20,7 @@ The dataset is comprised of the following information:
   - Orders
   - Customers
 
-The data sets can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally {from here](www.instacart.com/datasets/grocery-shopping-2017)
+The data sets can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally from [here](www.instacart.com/datasets/grocery-shopping-2017)
 via Kaggle on 1.9.25
 
 ## Tools
