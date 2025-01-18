@@ -32,8 +32,13 @@ customers in their system and how their ordering behaviors differ. For example:
     - What differences can you find in ordering habits of different customer profiles? 
 
 ## Data
+The dataset is comprised of the following information:
 
-The Instacart Online Grocery Shopping Dataset 2017”, Accessed from [www.instacart.com/datasets/grocery-shopping-2017]
+  - Products
+  - Orders
+  - Customers
+
+The data sets can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally from [www.instacart.com/datasets/grocery-shopping-2017]
 via Kaggle on 1.9.25
 
 ## Tools
