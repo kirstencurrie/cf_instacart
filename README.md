@@ -1,4 +1,6 @@
 # cf_instacart
+![Produce section of grocery store](assets/ic_groceries.jpg)
+
 This project includes Jupyter Lab notebook files for a mock analysis of Instacart Products and Orders. The data was originally obtained from Instacart (data source from Kaggle below), but prices and customer names were imputed with alternate data for learning purposes.
 
 The following information came from a fictional business objective prompt in the Career Foundry's module #4 on intro to Python. 
