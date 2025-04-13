@@ -28,7 +28,7 @@ The dataset is comprised of the following information:
   - Orders
   - Customers
 
-The Product data set can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally from [here]([www.instacart.com/datasets/grocery-shopping-2017](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis))
+The Product data set can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally from [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis?resource=download)
 via Kaggle on 1.9.25
 
 The Customers data set was created by the CareerFoundry team for the purpose of the course and can be accessed here.
