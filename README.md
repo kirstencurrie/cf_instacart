@@ -30,7 +30,7 @@ The dataset is comprised of the following information:
 
 The Product data set can be located here: "The Instacart Online Grocery Shopping Dataset 2017”, Accessed originally from [here](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis?resource=download) via Kaggle on 1.9.25.
  - The download folder will contain an "archive" folder
- - Within this folder, you will be using the "orders.csv", "products.csv", and "departments.csv"
+ - Within this folder, you will be using the "orders.csv", "products.csv", "departments.csv", and "order_products__prior.csv"
  - Please note tha the orders.csv file is quite large (over 100 MB)
 
 The Customers data set was created by the CareerFoundry team for the purpose of the course and can be accessed [here](assets/customers.zip).
